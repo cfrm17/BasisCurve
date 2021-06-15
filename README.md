@@ -40,6 +40,8 @@ As described above, the bootstrapping process needs to solve a yield using a roo
 
 FinPricing employs the Levenberg-Marquardt algorithm for root finding, which is very common in curve construction. Another popular algorithm is the Excel Solver, especially in Excel application.
 
-You can find more details at
 
-https://finpricing.com/lib/IrCurveIntroduction.html
+References:
+
+https://finpricing.com/lib/EqOption.html
+
